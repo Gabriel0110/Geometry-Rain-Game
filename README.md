@@ -17,5 +17,5 @@ Controls:
 Shapes:
  - Red Hexagon: hit this and you lose the game
  - Yellow Square: slows you down significantly and reduces your score
- - Green Triangle: increases your score and resets your speed if you hit a yellow square.  Get 5 in a row without missing one or hitting a    yellow square, and you get a very large score boost with an activatable ability to slow down all falling shapes for a certain amount of    points.
+ - Green Triangle: increases your score and resets your speed if you were already slowed by a yellow square.  Get 5 in a row without missing one or hitting a yellow square, and you get a very large score boost with an activatable ability to slow down all falling shapes for a certain amount of points.
  
