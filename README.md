@@ -7,5 +7,9 @@ I do, however, have a new use for it -- Reinforcement Learning practice.  I want
 
 The only thing I want to fix is the restart mechanic when it's game over.  It's a bit buggy, so in order to have a smooth and quick restart to jump right back in to a fresh run, I'll have to fix the restart.  Other than that, at this point I think it's good to go for testing.
 
-# Run the Game
+# Play the Game
 Simply download all files.  Unzip the .rar files with the other files and run the GeometryRainHardmode.exe to play the game.  I had to zip the data files because there was a lot of them for a GitHub upload.
+
+Controls:
+ - Move left: left arrow key
+ - Move right: right arrow key
